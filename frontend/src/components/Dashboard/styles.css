@@ -1,0 +1,28 @@
+.navbar {
+  background-color: #f37272;
+  border: none;
+  border-radius: 0;
+  margin: 0;
+}
+
+.navbar .navbar-brand {
+  color: #fff;
+}
+
+.navbar-hero .navbar-nav>li>a {
+  color: #fff;
+}
+
+.navbar-hero .navbar-nav .nav-link {
+  color: #fff;
+}
+
+.navbar-hero .navbar-brand:focus,
+.navbar-hero .navbar-brand:hover {
+  color: #fff;
+}
+
+.navbar-hero .navbar-nav>li>a:focus,
+.navbar-hero .navbar-nav>li>a:hover {
+  color: #eee;
+}

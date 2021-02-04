@@ -1,0 +1,61 @@
+.bg-hero {
+  background-color: #f37272 !important;
+}
+
+.hero {
+  border-radius: 0;
+  margin: 0px !important;
+  height: 400px;
+  padding: 8px 6px;
+  background-color: #f37272;
+}
+
+.hero-prefix {
+  color: #fff;
+  margin-top: 140px;
+}
+
+.hero-title {
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 2.5rem;
+}
+
+.hero-subtitle {
+  font-size: 1.2rem;
+}
+
+.card-welcome {
+  position: relative;
+  background-color: #fff;
+  box-shadow: 0 0 20px rgba(85, 84, 89, .3);
+  text-align: center;
+  max-width: 50rem;
+  z-index: 1;
+  margin: -40px auto 0;
+  padding: 2rem 3rem;
+}
+
+.card-balance-one {
+  position: relative;
+  color: #fff;
+  background-color: rgb(126, 214, 11);
+  box-shadow: 0 0 20px rgba(85, 84, 89, .3);
+  text-align: center;
+  max-width: 30rem;
+  z-index: 1;
+  margin: -60px auto 0;
+  padding: 2rem 3rem;
+}
+
+.card-balance-two {
+  position: relative;
+  color: #fff;
+  background-color: rgb(187, 26, 26);
+  box-shadow: 0 0 20px rgba(85, 84, 89, .3);
+  text-align: center;
+  max-width: 30rem;
+  z-index: 1;
+  margin: -60px auto 0;
+  padding: 2rem 3rem;
+}

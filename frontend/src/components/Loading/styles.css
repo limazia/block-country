@@ -1,0 +1,9 @@
+.loading-box {
+  background: #F2F2F2;
+}
+
+.loading {
+  width: 5rem;
+  height: 5rem;
+  margin-bottom: 100px;
+}
