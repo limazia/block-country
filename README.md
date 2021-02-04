@@ -16,8 +16,9 @@ Em seguida, execute o comando de instalação do seu gerenciador de pacotes:
 ```npm i``` ou ```yarn```
 
 ## .env (back end)
-> APP_NAME=TOKEN\
-APP_URL=http://localhost \APP_NAME=3333
+> APP_NAME=LimaCountry\
+APP_NAME=\
+APP_URL=http://localhost
 
 ## .env (front end)
 > REACT_APP_NAME=LimaCountry\
