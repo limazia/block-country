@@ -17,8 +17,7 @@ Em seguida, execute o comando de instalação do seu gerenciador de pacotes:
 
 ## .env (back end)
 > APP_NAME=TOKEN\
-APP_URL=http://localhost\
-APP_NAME=3333
+APP_URL=http://localhost \APP_NAME=3333
 
 ## .env (front end)
 > REACT_APP_NAME=LimaCountry\
