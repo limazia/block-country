@@ -17,7 +17,7 @@ Em seguida, execute o comando de instalação do seu gerenciador de pacotes:
 
 ## .env (back end)
 > APP_NAME=LimaCountry\
-APP_NAME=\
+APP_PORT=3333\
 APP_URL=http://localhost
 
 ## .env (front end)
